@@ -14,6 +14,7 @@ Participants (all from KN-209):
   * Shegelski Serhiy
   * Pytel Andriy
   * Shikova Khrystyna
+  * Novosad Ruslana
   
   
 Everyone involved to developing
